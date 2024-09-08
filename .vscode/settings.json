@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "cursoEmVideo/src",
+        "algoritmosSequenciais/src",
+        "algoritmosRepeticao/src",
+        "algoritmosCondicionais/src",
+        "algoritmosCondicionais"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": []
+}
