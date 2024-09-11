@@ -5,7 +5,8 @@
         "algoritmosSequenciais/src",
         "algoritmosRepeticao/src",
         "algoritmosCondicionais/src",
-        "algoritmosCondicionais"
+        "algoritmosCondicionais",
+        "udemy"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": []
